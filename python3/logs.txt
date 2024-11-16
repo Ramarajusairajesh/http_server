@@ -1,0 +1,39 @@
+GET /nothing HTTP/1.1
+Host: localhost:8091
+User-Agent: curl/8.9.1
+Accept: */*
+
+2024-11-16 18:08:08.206736: ('127.0.0.1', 49068)/index.html
+2024-11-16 18:08:08.236054: ('127.0.0.1', 49080)/assets/css/font-awesome.min.css
+2024-11-16 18:08:08.240271: ('127.0.0.1', 49092)/assets/css/flaticon.css
+2024-11-16 18:08:08.241151: ('127.0.0.1', 49102)/assets/css/animate.css
+2024-11-16 18:08:08.241698: ('127.0.0.1', 49118)/assets/css/owl.carousel.min.css
+2024-11-16 18:08:08.242763: ('127.0.0.1', 49120)/assets/css/owl.theme.default.min.css
+2024-11-16 18:08:08.243524: ('127.0.0.1', 49136)/assets/css/bootstrap.min.css
+2024-11-16 18:08:08.245204: ('127.0.0.1', 49138)/assets/css/bootsnav.css
+2024-11-16 18:08:08.246917: ('127.0.0.1', 49142)/assets/css/style.css
+2024-11-16 18:08:08.247777: ('127.0.0.1', 49146)/assets/css/responsive.css
+2024-11-16 18:08:08.247993: ('127.0.0.1', 49162)/assets/images/about/profile_image.jpg
+2024-11-16 18:08:08.248298: ('127.0.0.1', 49176)/assets/images/portfolio/p1.jpg
+2024-11-16 18:08:08.254205: ('127.0.0.1', 49180)/assets/images/portfolio/p2.jpg
+2024-11-16 18:08:08.254435: ('127.0.0.1', 49196)/assets/images/portfolio/p3.jpg
+2024-11-16 18:08:08.254597: ('127.0.0.1', 49202)/assets/images/portfolio/p4.jpg
+2024-11-16 18:08:08.256303: ('127.0.0.1', 49208)/assets/js/jquery.js
+2024-11-16 18:08:08.297645: ('127.0.0.1', 49210)/assets/js/bootstrap.min.js
+2024-11-16 18:08:08.298033: ('127.0.0.1', 49224)/assets/js/bootsnav.js
+2024-11-16 18:08:08.298275: ('127.0.0.1', 49232)/assets/js/jquery.sticky.js
+2024-11-16 18:08:08.298488: ('127.0.0.1', 49240)/assets/js/progressbar.js
+2024-11-16 18:08:08.298731: ('127.0.0.1', 49252)/assets/js/jquery.appear.js
+2024-11-16 18:08:08.298937: ('127.0.0.1', 49256)/assets/js/owl.carousel.min.js
+2024-11-16 18:08:08.308256: ('127.0.0.1', 49266)/assets/js/custom.js
+2024-11-16 18:08:08.309938: ('127.0.0.1', 49278)/assets/images/portfolio/p5.jpg
+2024-11-16 18:08:08.310941: ('127.0.0.1', 49282)/assets/images/clients/c1.png
+2024-11-16 18:08:08.311096: ('127.0.0.1', 49294)/assets/images/clients/c2.png
+2024-11-16 18:08:08.311205: ('127.0.0.1', 49310)/assets/images/clients/c3.png
+2024-11-16 18:08:08.311311: ('127.0.0.1', 49326)/assets/images/clients/c4.png
+2024-11-16 18:08:08.311409: ('127.0.0.1', 49334)/assets/images/clients/c5.png
+2024-11-16 18:08:08.314903: ('127.0.0.1', 49346)/assets/images/clients/c6.png
+2024-11-16 18:08:08.315104: ('127.0.0.1', 49352)/assets/images/clients/c7.png
+2024-11-16 18:08:08.350919: ('127.0.0.1', 49356)/assets/images/about/welcome-banner.jpg
+2024-11-16 18:08:08.386647: ('127.0.0.1', 49362)/assets/fonts/fontawesome-webfont.woff2?v=4.7.0
+2024-11-16 21:49:15.327729: ('127.0.0.1', 54600)/
