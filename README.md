@@ -9,7 +9,8 @@ Simple explanation of what libraries I used in these programs:
 
 For C:
       For the C implementation I used socket,unistd libraries to define the socket interface to crete socket , transmit data via socket and recieve data via socket
-    For python:
+      
+For python:
         Similar to C used socket interface and add used mimetypes to define file types rather than writing my own dictionary! Downloaded a simple and free template that and hosten it via http server!
 
 
