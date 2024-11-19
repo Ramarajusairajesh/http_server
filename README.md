@@ -5,8 +5,9 @@ So I started this repo not only for a simple htt_server , but gonna update it wi
 This repo work for linux but for windows you need to change the socket library with winsock api to access sockets in windows!
 
 
-Simple explanation of what libraries I used in these programs: \n
-    For C:
+Simple explanation of what libraries I used in these programs: 
+
+For C:
       For the C implementation I used socket,unistd libraries to define the socket interface to crete socket , transmit data via socket and recieve data via socket
     For python:
         Similar to C used socket interface and add used mimetypes to define file types rather than writing my own dictionary! Downloaded a simple and free template that and hosten it via http server!
