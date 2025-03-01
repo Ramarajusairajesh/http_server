@@ -1,6 +1,6 @@
 # HTTP Server (C++ & Python) 🚀
 
-A lightweight **HTTP server** implemented in both **C++ and Python**, serving static files and logging client requests.
+A simple **HTTP server** implemented in both **C++ and Python**, serving static files and logging client requests.
 
 ---
 
