@@ -42,24 +42,25 @@ Now, the Python server is running on http://127.0.0.1:8080 🎉
 📜 Logging Format (logs.txt)
 Each request is logged as:
 
-css
+```css
 Copy
 Edit
 [YYYY-MM-DD HH:MM:SS.mmm] [Client_IP] Requested: /path
 Example:
-
-less
+```
+```less
 Copy
 Edit
 [2025-02-28 14:53:12.123] [192.168.1.42] Requested: /
 [2025-02-28 14:53:15.456] [192.168.1.50] Requested: /home
 [2025-02-28 14:53:18.789] [10.0.0.25] Requested: /auth
+```
 📂 Project Structure
 bash
 Copy
 Edit
 http_server/
-│── cpp/              # C++ implementation
+```│── cpp/              # C++ implementation
 │   ├── http_server.cpp
 │   ├── logs.txt
 │   ├── templates/    # Static files for C++ server
@@ -72,11 +73,5 @@ http_server/
 │   │   ├── index.html
 │   │   ├── 404.html
 │── README.md         # Project documentation
-🔄 Differences Between C++ & Python Versions
-Feature	C++ Server	Python Server
-Performance	🚀 High (Optimized)	🐍 Moderate
-Concurrency	❌ Single-threaded	❌ Single-threaded
-Logging	✅ Logs requests with IP & timestamp	✅ Logs requests with IP & timestamp
-HTTP Version	HTTP/2.0	HTTP/1.1
-Static File Serving	✅ Yes	✅ Yes
-404 Handling	✅ Uses 404.html	✅ Uses 404.html
+```
+TODO: HTTPS
