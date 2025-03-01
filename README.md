@@ -19,22 +19,25 @@ A lightweight **HTTP server** implemented in both **C++ and Python**, serving st
 ```sh
 git clone https://github.com/Ramarajusairajesh/http_server.git
 cd http_server
+```
 2️⃣ Running the C++ Server
-sh
+```sh
 Copy
 Edit
 cd cpp
 g++ http_server.cpp -o server
 ./server
 Now, the C++ server is running on http://localhost:8080 🎉
+```
 
 3️⃣ Running the Python Server
-sh
+```sh
 Copy
 Edit
 cd python
 python3 server.py
 Now, the Python server is running on http://127.0.0.1:8080 🎉
+```
 
 📜 Logging Format (logs.txt)
 Each request is logged as:
